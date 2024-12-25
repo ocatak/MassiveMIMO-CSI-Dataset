@@ -61,7 +61,7 @@ This dataset is particularly useful for:
 
 ---
 
-## **SEO-Optimized Keywords**
+## **Keywords**
 - Massive MIMO CSI Dataset
 - 5G and 6G wireless networks
 - Channel State Information for AI/ML
